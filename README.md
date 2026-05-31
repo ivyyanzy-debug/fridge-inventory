@@ -1,0 +1,2 @@
+# fridge-inventory
+prototype
